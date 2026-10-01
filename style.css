@@ -1,0 +1,10 @@
+
+.donut{
+    width: 400px;
+    height: 400px;
+    transition: transform;
+    transition-duration: 10s;
+}
+.donut:hover{
+    transform: rotate(360deg);
+}
